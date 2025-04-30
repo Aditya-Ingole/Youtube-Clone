@@ -1,7 +1,7 @@
 # 🎥 YouTube Clone
 
 🌐 Live Demo
-( https://youtube-clone-ai13.netlify.app/video/10/R2-yomhYAj4 )
+( https://youtube-clone-ai13.netlify.app/  )
 
 A responsive YouTube clone built using **React** and **CSS**, leveraging the **YouTube Live API** to fetch real-time video data. This project replicates the core functionality of YouTube, including video listing, searching, and viewing—all powered by live API calls.
 
@@ -41,14 +41,21 @@ src/
 ├── index.js          # Entry point
 └── styles/           # Custom CSS
 
+
+
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
+
+
 
 
 📬 Contact
 For questions or suggestions, feel free to reach out:
 
+
+
 GitHub: Aditya-Ingole
+
 Email: a13ingole@gmail.com
 
 
